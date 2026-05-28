@@ -1,7 +1,7 @@
-# source_2–source_1 Brand Matching Pipeline
+# Entity Resolution Pipeline
 
-A multi-stage NLP pipeline that maps **source_2** advertiser/brand names to their
-counterparts in the **source_1** advertising database.  
+A multi-stage NLP pipeline that maps **source_2** brand names to their
+counterparts in the **source_1** database.  
 Matching is performed by combining web-scraped company descriptions, semantic
 embeddings, weighted string similarity, and a local LLM classifier.
 
